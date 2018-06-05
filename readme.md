@@ -4,7 +4,7 @@
 
 ## 演示地址
 
-> <a href="http://demo.phpcollege.org/bootstrap-progress/index.html" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
+> <a href="#" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
 
 ## 关于 ：`bootstrap-progress`
 
@@ -26,6 +26,6 @@
 
 ##### 源码
 
-> oschina ：<a href="https://git.oschina.net/skinnyguang/bootstrap-progress" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
+> oschina ：<a href="https://gitee.com/ikaiguang/bootstrap-progress" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
 
-> github ：<a href="https://github.com/skinnyguang/bootstrap-progress" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
+> github ：<a href="https://github.com/ikaiguang/bootstrap-progress" title="bootstrap-progress" target="_blank">bootstrap-progress</a>
