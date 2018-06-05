@@ -1,6 +1,6 @@
 # bootstrap-progress 进度条-滚动条
 
-> author：`skinnyguang`
+> author：`ikaiguang`
 
 ## 演示地址
 
